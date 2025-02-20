@@ -1,4 +1,4 @@
-# clf-c02-exam-dumps
+# CLF-C02-Exam-Dumps
 # **Your Ultimate Guide to Passing the CLF-C02 Certification Exam**
 
 Earning the **AWS Certified Cloud Practitioner** certification by passing the [CLF-C02 exam dumps](https://www.p2pcerts.com/amazon/clf-c02-dumps.html), is a major achievement for anyone stepping into the world of cloud computing. Whether you're a beginner exploring **AWS services** or a professional seeking to validate your foundational cloud knowledge, this certification can open many career doors. In this guide, we'll cover essential exam details and share tips to help you succeed.
